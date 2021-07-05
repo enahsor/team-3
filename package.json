@@ -1,0 +1,15 @@
+{
+  "name": "team-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/enahsor/team-3.git",
+  "author": "Dowen Robinson <35748031+enahsor@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "build": "parcel build index.html",
+    "dev": "parcel index.html"
+  }
+}
